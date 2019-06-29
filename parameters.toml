@@ -461,8 +461,12 @@ powerlineShiftY = -150
 powerlineShiftY = -100
 [powerline-shift-y-n50]
 powerlineShiftY = -50
+[powerline-shift-y-n10]
+powerlineShiftY = -10
 [powerline-shift-y-0]
 powerlineShiftY = 0
+[powerline-shift-y-p10]
+powerlineShiftY = 10
 [powerline-shift-y-p50]
 powerlineShiftY = 50
 [powerline-shift-y-p100]
@@ -503,8 +507,12 @@ powerlineShiftX = -150
 powerlineShiftX = -100
 [powerline-shift-x-n50]
 powerlineShiftX = -50
+[powerline-shift-x-n10]
+powerlineShiftX = -10
 [powerline-shift-x-0]
 powerlineShiftX = 0
+[powerline-shift-x-p10]
+powerlineShiftX = 10
 [powerline-shift-x-p50]
 powerlineShiftX = 50
 [powerline-shift-x-p100]
